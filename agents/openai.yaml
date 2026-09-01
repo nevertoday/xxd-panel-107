@@ -1,0 +1,7 @@
+interface:
+  display_name: "/xxd-panel-107"
+  short_description: "Turn photos into readable image-word visual poetry."
+  default_prompt: "Use $xxd-panel-107 on one image or an image directory. Keep its bundled Chinese original brief as the sole aesthetic authority; make paired modes exact 50:50 with no third band; build a genuinely readable text-to-image-word sentence in which every pictured word replaces, rather than decorates or duplicates, the missing printed word; isolate every source; and never feed a generated intermediate back through a second visual treatment."
+
+policy:
+  allow_implicit_invocation: true
