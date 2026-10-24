@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 107｜Image-Word Poetry: turns a photo into a readable rebus-style visual sentence — a short, slightly poetic line written from the photo's mood or story, in which several words (a flower, a window, a road, the wind, waiting, morning) are replaced by small redrawn images from the photo and are not written again, each image word set on its own small soft colour block of varying size and crop, drawn in one modern hand-drawn editorial style with simple outlines and flat colour, laid out in two to four lines of thin, airy editorial type on a near-white background with generous breathing space, in any suitable language. The sentence only reads fully with both text and images. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-107 or asks for a rebus, picture-word poem or visual sentence from a photo.",
+  "short_description": "图像替词诗：用照片里的花、窗、路替换句中的词，拼成一句能读懂的图文短诗",
+  "zh-CN": {
+    "name": "图像替词诗",
+    "tagline": "把照片里的花、窗、路和风画成小图，替换句子里的词，拼成一句能读懂的短诗。",
+    "look": "先根据照片的情绪写一句带点诗意的短句，再把其中几个词，比如花、窗、鸟、海、等待、清晨，换成从照片里提炼出的小图，这些词不再用文字重复，整句话要连着图一起读才完整。每个图像词放在一块独立的小色块上，色块大小、长宽和裁切各不相同，图会被裁掉一部分或探出色块边缘。小图用统一的现代手绘编辑插画语言：简化轮廓、平涂色块、一点手工感。色块是牛奶蓝、薄荷绿、奶油黄、蜜桃粉、薰衣草紫这类柔和明亮的颜色。文字用轻盈的细体，和图像词一起排成两到四行，高低错落，四周大量留白，语种按照片气质选择。",
+    "traits": [
+      "图像替词句",
+      "文字图像连续读",
+      "手绘编辑插画",
+      "柔和彩色色块",
+      "细体文字",
+      "呼吸式排版"
+    ],
+    "good": [
+      "有几样能当“词”的具体事物的照片：窗台上的花、海边的路、杯子和书、树与鸟",
+      "带情绪或时间感的瞬间：清晨出门、等车、雨后归来、傍晚的风",
+      "想做成诗句卡片、社交配图或小型展览作品的旅行和日常照片"
+    ],
+    "poor": [
+      "只有抽象纹理或单一大色块、找不到可替换的具体物件的照片",
+      "需要完整复刻场景或精确还原细节的需求",
+      "想要贴纸墙、卡片宫格、商业标题海报或没有文字的纯插画"
+    ]
+  },
+  "en": {
+    "name": "Image-Word Poetry",
+    "tagline": "Draws a photo's flowers, windows, roads and wind as small pictures that stand in for words in a short poem.",
+    "look": "A short, slightly poetic line is first written from the photo's mood, then several of its words, such as flower, window, bird, sea, waiting or morning, are swapped for small pictures drawn from the photo; those words are not written again, so the sentence only reads fully with the pictures. Each image word sits on its own small colour block, each a different size, shape and crop, with the drawing sometimes cut off or reaching past the edge. The pictures share one modern hand-drawn editorial style of simple outlines, flat colour and a light handmade touch. The blocks are soft, bright colours like milk blue, mint, cream yellow, peach and lavender. Text is set in a light, thin face, flowing with the image words across two to four staggered lines amid generous white space, in whatever language suits the photo.",
+    "traits": [
+      "Rebus sentence",
+      "Words and images read in line",
+      "Hand-drawn editorial pictures",
+      "Soft colour blocks",
+      "Thin type",
+      "Airy layout"
+    ],
+    "good": [
+      "Photos with a few concrete things that can stand in for words: flowers on a windowsill, a road by the sea, a cup and a book, a tree and a bird",
+      "Moments with a mood or time of day: leaving home at dawn, waiting for a bus, coming back after rain, an evening breeze",
+      "Travel and everyday photos you want as a poem card, social post image or small exhibition piece"
+    ],
+    "poor": [
+      "Photos of abstract texture or one large colour field, with no concrete object to stand in for a word",
+      "Jobs that need the full scene reproduced or exact detail",
+      "Requests for a sticker wall, card grid, commercial headline poster or a picture with no text"
+    ]
+  },
+  "ja": {
+    "name": "画像ことば詩",
+    "tagline": "写真の花、窓、道、風を小さな絵にして文中の言葉と入れ替え、読める短い詩に組み上げます。",
+    "look": "まず写真の気分から少し詩的な短い一文をつくり、その中のいくつかの言葉、たとえば花、窓、鳥、海、待つ、朝を、写真から描き起こした小さな絵に置き換えます。置き換えた言葉は文字では二度と書かないので、文は絵と一緒に読んではじめて完成します。絵になった言葉はそれぞれ独立した小さな色面にのり、色面の大きさ、縦横比、切り取り方はまちまちで、絵の一部が切れたり縁からはみ出したりします。絵は簡略な輪郭、平塗り、ほのかな手仕事感という統一された現代的な手描きエディトリアルの描き方です。色面はミルクブルー、ミント、クリームイエロー、ピーチ、ラベンダーなど柔らかく明るい色。文字は軽やかな細い書体で、絵の言葉と一緒に二〜四行に高低をつけて並び、まわりにたっぷり余白をとります。言語は写真の雰囲気に合わせて選びます。",
+    "traits": [
+      "判じ絵の文",
+      "文字と絵を続けて読む",
+      "手描きエディトリアルの絵",
+      "柔らかな色面",
+      "細い書体",
+      "呼吸する組版"
+    ],
+    "good": [
+      "言葉の代わりになる具体的な物がいくつかある写真：窓辺の花、海辺の道、カップと本、木と鳥",
+      "気分や時間帯のある瞬間：朝の出発、バス待ち、雨上がりの帰り道、夕方の風",
+      "詩のカード、SNS の画像、小さな展示作品にしたい旅や日常の写真"
+    ],
+    "poor": [
+      "抽象的な質感や大きな色面ひとつだけで、言葉に置き換えられる具体物がない写真",
+      "場面全体をそのまま再現したい、細部を正確に残したい用途",
+      "ステッカーの壁、カードのマス目、商業的な見出しポスター、文字のない絵だけを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "이미지 낱말 시",
+    "tagline": "사진 속 꽃, 창, 길, 바람을 작은 그림으로 그려 문장의 낱말을 대신하게 하고, 읽을 수 있는 짧은 시로 엮습니다.",
+    "look": "먼저 사진의 감정에서 조금 시적인 짧은 문장을 만들고, 그중 몇 낱말, 예컨대 꽃, 창, 새, 바다, 기다림, 아침을 사진에서 뽑아 그린 작은 그림으로 바꿉니다. 바뀐 낱말은 글자로 다시 쓰지 않으므로 문장은 그림과 함께 읽어야 완성됩니다. 그림 낱말은 저마다 작은 색면 위에 놓이고, 색면의 크기, 가로세로 비율, 자르는 방식은 모두 다르며, 그림이 일부 잘리거나 가장자리 밖으로 삐져나오기도 합니다. 그림은 단순한 윤곽, 평평한 색, 가벼운 손맛이라는 하나의 현대적 손그림 편집 일러스트 언어로 그립니다. 색면은 밀크 블루, 민트, 크림 옐로, 피치, 라벤더처럼 부드럽고 밝은 색입니다. 글자는 가볍고 가는 서체로 그림 낱말과 함께 두세 줄에서 네 줄로 높낮이를 두어 흐르고, 주위에 넉넉한 여백을 둡니다. 언어는 사진의 분위기에 맞춰 고릅니다.",
+    "traits": [
+      "그림 낱말 문장",
+      "글과 그림을 이어 읽기",
+      "손그림 편집 일러스트",
+      "부드러운 색면",
+      "가는 서체",
+      "숨 쉬는 레이아웃"
+    ],
+    "good": [
+      "낱말을 대신할 구체적인 사물이 몇 가지 있는 사진: 창가의 꽃, 바닷가 길, 컵과 책, 나무와 새",
+      "감정이나 시간대가 담긴 순간: 새벽에 집을 나서는 길, 버스 기다리기, 비 갠 뒤 돌아오는 길, 저녁 바람",
+      "시 카드, SNS 이미지, 작은 전시 작품으로 만들고 싶은 여행·일상 사진"
+    ],
+    "poor": [
+      "추상적인 질감이나 큰 색면 하나뿐이어서 낱말로 바꿀 구체적인 사물이 없는 사진",
+      "장면 전체를 그대로 재현하거나 세부를 정확히 살려야 하는 용도",
+      "스티커 벽, 카드 격자, 상업 헤드라인 포스터, 글자 없는 그림만 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شِعر الكلمات المصوّرة",
+    "tagline": "يرسم أزهار الصورة ونوافذها وطرقها ورياحها صوراً صغيرة تحل محل الكلمات في قصيدة قصيرة تُقرأ فعلاً.",
+    "look": "تُكتب أولاً جملة قصيرة فيها مسحة شعرية من مزاج الصورة، ثم تُستبدل بعض كلماتها، مثل زهرة ونافذة وطائر وبحر وانتظار وصباح، برسوم صغيرة مستوحاة من الصورة؛ ولا تُكتب تلك الكلمات مرة أخرى، فلا تكتمل الجملة إلا بالقراءة مع الرسوم. تستقر كل كلمة مصوّرة على مساحة لونية صغيرة خاصة بها، تختلف في الحجم والنسبة وطريقة القص، وقد يُقطع جزء من الرسم أو يتجاوز حافة المساحة. تشترك الرسوم في أسلوب تحريري يدوي حديث واحد: محيطات مبسطة وألوان مسطحة ولمسة يدوية خفيفة. المساحات بألوان ناعمة زاهية كالأزرق الحليبي والنعناعي والأصفر الكريمي والخوخي واللافندر. النص بخط رفيع خفيف، يتدفق مع الكلمات المصوّرة على سطرين إلى أربعة أسطر متفاوتة وسط فراغ أبيض وافر، وباللغة التي تناسب الصورة.",
+    "traits": [
+      "جملة الألغاز المصوّرة",
+      "كلمات وصور تُقرأ متصلة",
+      "رسوم تحريرية يدوية",
+      "مساحات لونية ناعمة",
+      "خط رفيع",
+      "تنضيد رحب"
+    ],
+    "good": [
+      "صور فيها بضعة أشياء ملموسة يمكن أن تنوب عن كلمات: أزهار على حافة نافذة، طريق قرب البحر، فنجان وكتاب، شجرة وطائر",
+      "لحظات فيها مزاج أو وقت من اليوم: الخروج فجراً، انتظار الحافلة، العودة بعد المطر، نسمة المساء",
+      "صور سفر أو حياة يومية تريدها بطاقة شعرية أو صورة لمنشور أو عملاً صغيراً لمعرض"
+    ],
+    "poor": [
+      "صور لملمس تجريدي أو مساحة لونية واحدة كبيرة، بلا شيء ملموس يحل محل كلمة",
+      "أعمال تحتاج إلى إعادة المشهد كاملاً أو إلى تفاصيل دقيقة",
+      "طلب جدار ملصقات أو شبكة بطاقات أو ملصق بعنوان تجاري أو رسم بلا نص"
+    ]
+  }
+}

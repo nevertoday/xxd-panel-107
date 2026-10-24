@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-107
-description: "Create XXD Panel 107 raster artwork: a faithful photograph paired with a readable rebus-style visual sentence whose source-derived hand-drawn image words genuinely replace words in the text. Accepts one image or a directory batch and supports exact 50:50 top-bottom or left-right pairs, design-only artwork, four-device wallpaper, multiple ratios or exact sizes, and prompt-generated or user-supplied wording. Use whenever the user invokes xxd-panel-107 or asks for this image-word visual-poetry style."
+description: "XXD Panel 107｜Image-Word Poetry: turns a photo into a readable rebus-style visual sentence — a short, slightly poetic line written from the photo's mood or story, in which several words (a flower, a window, a road, the wind, waiting, morning) are replaced by small redrawn images from the photo and are not written again, each image word set on its own small soft colour block of varying size and crop, drawn in one modern hand-drawn editorial style with simple outlines and flat colour, laid out in two to four lines of thin, airy editorial type on a near-white background with generous breathing space, in any suitable language. The sentence only reads fully with both text and images. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-107 or asks for a rebus, picture-word poem or visual sentence from a photo."
 ---
 
 # XXD Panel 107
